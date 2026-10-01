@@ -74,6 +74,7 @@ New Quote functionality
 
 Author information
 
+
 Clean and minimal UI
 
 Interactive user experience
