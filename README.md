@@ -174,7 +174,7 @@ Each project is a separate Flutter application.
 
 Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/CodeAlpha-App-Development.git
+git clone https://github.com/dipto-paul/codealpha_intern_tasks.git
 
 Open a project
 
